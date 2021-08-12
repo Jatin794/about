@@ -1,7 +1,7 @@
 {
   "name": "Contact Me",
   "email": "admin@jatinnagpal.com",
-  "description": "Drop me an email.",
+  "description": "You sure scrolled all the way down, mate. If you want to contact me, drop me a message.",
   "image": {
     "src": "../../images/favicon.png",
     "alt": "Gatsby Logo"

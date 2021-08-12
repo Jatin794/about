@@ -1,11 +1,11 @@
 {
   "projects": [
     {
-      "visible": false,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "visible": true,
+      "category": "🕹️ REALLY COOL GUY",
+      "title": "The Coolest Guy Ever!",
+      "description": "I told you, didn't I. This site is still under construction. Photo by Clément H on Unsplash.",
+      "tags": ["Personal", "Cool Guy"],
       "image": {
         "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
         "alt": "Quick Setup"
@@ -13,7 +13,7 @@
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/Jatin794"
         },
         {
           "type": "external",
@@ -34,7 +34,7 @@
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/Jatin794"
         }
       ]
     }
