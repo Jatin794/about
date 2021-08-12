@@ -1,59 +1,59 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "Placeholder Section",
       "image": {
         "src": "../../images/joystick.png",
-        "alt": ""
+        "alt": "Placeholder Image"
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "Placeholder Section",
       "image": {
         "src": "../../images/notebook.png",
-        "alt": ""
+        "alt": "Placeholder Image"
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "Placeholder Section",
       "image": {
         "src": "../../images/nail-polish.png",
-        "alt": ""
+        "alt": "Placeholder Image"
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "Placeholder Section",
       "image": {
         "src": "../../images/medium.png",
-        "alt": ""
+        "alt": "Placeholder Image"
       }
     },
     {
-      "label": "Animations",
+      "label": "Placeholder Section",
       "image": {
         "src": "../../images/gem-stone.png",
-        "alt": ""
+        "alt": "Placeholder Image"
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "Placeholder Section",
       "image": {
         "src": "../../images/mobile-phone.png",
-        "alt": ""
+        "alt": "Placeholder Image"
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "Placeholder Section",
       "image": {
         "src": "../../images/gatsby.png",
-        "alt": ""
+        "alt": "Placeholder Image"
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "Placeholder Section",
       "image": {
         "src": "../../images/high-voltage.png",
-        "alt": ""
+        "alt": "Placeholder Image"
       }
     }
   ],
